@@ -9,4 +9,27 @@ This repository is a paper digest of deep neural network (DNN)-based approaches 
 ### Helpful Learning Resource for Learned Compression:thumbsup::thumbsup::thumbsup:
 
 - **Talk** (Learned Image Compression) [[video](https://www.youtube.com/watch?v=x_q7cZviXkY)]
-- **Library** (CompressAI: A PyTorch Library and Evaluation Platform for End-to-End Compression Research) [[code](https://github.com/InterDigitalInc/CompressAI)]
+- **Library** (CompressAI: A PyTorch Library and Evaluation Platform for End-to-End Compression Research) [[code](https://github.com/InterDigitalInc/CompressAI)] [[doc](https://interdigitalinc.github.io/CompressAI/)]
+
+
+
+## :bookmark:Image Compression
+
+### NeurIPS 2018:tada::tada::tada:
+
+- **Joint Autoregressive and Hierarchical Priors for Learned Image Compression** [[paper](https://arxiv.org/abs/1809.02736)] [[code](https://github.com/InterDigitalInc/CompressAI)]
+  - David Minnen, Johannes Ballé, George Toderici
+
+### ICLR 2018:tada::tada::tada:
+
+- **Variational Image Compression with a Scale Hyperprior** [[paper](https://arxiv.org/abs/1802.01436)] [[code](https://github.com/InterDigitalInc/CompressAI)]
+  - Johannes Ballé, David Minnen, Saurabh Singh, Sung Jin Hwang, Nick Johnston
+
+### ICLR 2017:tada::tada::tada:
+
+- **End-to-End Optimized Image Compression** [[paper](https://arxiv.org/abs/1611.01704)] [[code](https://github.com/tensorflow/compression)]
+  - Johannes Ballé, Valero Laparra, Eero P. Simoncelli
+
+
+
+## :bookmark:Video Compression
