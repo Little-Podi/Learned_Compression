@@ -9,3 +9,4 @@ This repository is a paper digest of deep neural network (DNN)-based approaches 
 ### Helpful Learning Resource for Compression:thumbsup::thumbsup::thumbsup:
 
 - **Talk** (Learned Image Compression) [[video](https://www.youtube.com/watch?v=x_q7cZviXkY)]
+- **Library** (CompressAI: A PyTorch Library and Evaluation Platform for End-to-End Compression Research) [[code](https://github.com/InterDigitalInc/CompressAI)]
