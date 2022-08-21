@@ -1,6 +1,6 @@
 # Learned Compression
 
-This repository is a paper digest of deep neural network (DNN)-based approaches in data compression tasks. Papers are listed in alphabetical order of the first character. All links to the papers and codes are freely accessible.
+This repository is a paper digest of deep neural network (DNN)-based approaches in data compression tasks, including **image compression** and **video compression**. Papers are listed in alphabetical order of the first character. All links to the papers and codes are freely accessible.
 
 
 
