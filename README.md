@@ -33,3 +33,8 @@ This repository is a paper digest of deep neural network (DNN)-based approaches 
 
 
 ## :bookmark:Video Compression
+
+### CVPR 2019:tada::tada::tada:
+
+- **DVC: An End-to-end Deep Video Compression Framework** [[paper](https://arxiv.org/abs/1812.00101)] [[code](https://github.com/GuoLusjtu/DVC)]
+  - Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Chunlei Cai, Zhiyong Gao
