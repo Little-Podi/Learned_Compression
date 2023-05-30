@@ -8,7 +8,7 @@ This repository is a paper digest of deep neural network (DNN)-based approaches 
 
 ### Helpful Learning Resource:thumbsup::thumbsup::thumbsup:
 
-- **(Talk)** Learned Image Compression [[video](https://www.youtube.com/watch?v=x_q7cZviXkY)]
+- **(Talk)** Learned Image Compression [[video](https://youtu.be/x_q7cZviXkY)]
 - **(Survey)** Image and Video Compression with Neural Networks: A Review [[paper](https://arxiv.org/abs/1904.03567)]
 - **(Library)** CompressAI: A PyTorch Library and Evaluation Platform for End-to-End Compression Research [[code](https://github.com/InterDigitalInc/CompressAI)] [[doc](https://interdigitalinc.github.io/CompressAI/)]
 - **(Tool)** GetData Graph Digitizer [[web](http://getdata-graph-digitizer.com/)]
