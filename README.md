@@ -46,7 +46,7 @@ This repository is a paper digest of deep neural network (DNN)-based approaches 
 ### NeurIPS 2022:tada::tada::tada:
 
 - **VCT: A Video Compression Transformer** [[paper&review](https://openreview.net/forum?id=lme1MKnSMb)] [[code](https://github.com/tl32rodan/torchVCT)]
-  - Fabian Mentzer, George Toderici, David Minnen, Sung-Jin Hwang, Sergi Caelles, Mario Lucic, Eirikur Agustsson
+  - Fabian Mentzer, George Toderici, David Minnen, Sung Jin Hwang, Sergi Caelles, Mario Lucic, Eirikur Agustsson
 
 ### MM 2022
 
